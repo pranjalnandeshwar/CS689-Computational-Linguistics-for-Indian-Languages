@@ -1,0 +1,1 @@
+For each question(except Q1 and Q3, I've combined them), I have created a separate folder and in each folder, there's a notebook. For Q5, there's a report in pdf format.
